@@ -15,4 +15,4 @@ The recipe page should have the following:
 Push your project to GitHub once completed and share the link 
 
 ## 🔗 Link to live page
-
+https://rashidamosi.github.io/Html-Recipe-Project-Assignment-STUTERN/
