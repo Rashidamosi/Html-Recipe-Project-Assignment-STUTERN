@@ -16,4 +16,3 @@ Push your project to GitHub once completed and share the link
 
 ## 🔗 Link to live page
 
-
